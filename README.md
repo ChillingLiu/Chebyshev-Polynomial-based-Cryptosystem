@@ -6,7 +6,7 @@ The project consists the source codes of our research paper that is submitting c
 Our paper discussed the numerical experiments within the Chebyshev polynoimal based crytosystem and Bergamo's attack. We pointed out the relevance of the length of plaintexts and the precision of arithmetical calculations in the cryptosystem, and proved the Bergamo's attack only succeeds in symbolic computations, and the numerical implementation of the cryptosystem remains its robustness.
 
 To cite our work:
-Liu, X; Morales-Luna, G. Experimenting with Chebshev chaotic encryption scheme. Cryptography 2024, 1, 0. https://doi.org/
+Liu, X., & Morales-Luna, G. (2025). On the Effectiveness of a Common Attack to Chebyshev Chaotic Encryption Scheme. Cryptography, 9(1), 10. https://doi.org/10.3390/cryptography9010010
 
 
 
