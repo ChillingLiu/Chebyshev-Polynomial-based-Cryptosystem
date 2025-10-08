@@ -1,7 +1,7 @@
 # Chebyshev-Polynomial-based-Cryptosystem
 Numerical Experiments of Chebyshev Polynomial Based Cryptosystem and Bergamo's Attack using GMP and MPFR
 
-The project consists the source codes of our research paper that is submitting currently.
+The project consists the source codes of our research paper.
 
 Our paper discussed the numerical experiments within the Chebyshev polynoimal based crytosystem and Bergamo's attack. We pointed out the relevance of the length of plaintexts and the precision of arithmetical calculations in the cryptosystem, and proved the Bergamo's attack only succeeds in symbolic computations, and the numerical implementation of the cryptosystem remains its robustness.
 
